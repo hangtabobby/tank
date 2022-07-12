@@ -1,0 +1,38 @@
+{
+  "data" : [
+    [
+      {
+        "numEnemy": 1,
+        "levelEnemy": 1
+      },
+      {
+        "numEnemy": 3,
+        "levelEnemy": 1
+      },
+      {
+        "numEnemy": 5,
+        "levelEnemy": 1
+      }
+      
+    ],
+    [
+      {
+        "numEnemy": 2,
+        "levelEnemy": 2
+      },
+      {
+        "numEnemy": 4,
+        "levelEnemy": 2
+      },
+      {
+        "numEnemy": 6,
+        "levelEnemy": 2
+      },
+      {
+      "numEnemy": 2,
+      "levelEnemy":5
+      }
+
+      ]
+    ]
+}

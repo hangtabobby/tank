@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "numEnemy": 1,
+      "levelEnemy": 1
+    },
+    {
+      "numEnemy": 3,
+      "levelEnemy": 1
+    },
+    {
+      "numEnemy": 5,
+      "levelEnemy": 1
+    }
+  ]
+}
